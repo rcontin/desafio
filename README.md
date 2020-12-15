@@ -1,6 +1,6 @@
 PRE REQUISITOS
 --------------
-. Maven instalado e corretamente configurado
+. Maven instalado e corretamente configurado<br>
 . Java 8 instalado e JAVA_HOME corretamente configurado
 . ChromeDriver deve estar localizado no caminho: "c:\chromedriver\chromedriver.exe"
 
